@@ -33,7 +33,9 @@ Chi tiết Treadmill Exercise bao gồm:
 Giao diện login 
 ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/5d47ceaa-959b-4c3e-8420-466691089a8b)
 
-Giao diện trang quản lý <img width="468" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_fifth/assets/118975118/cbc1b348-27eb-49be-b6bf-c8a45ddcd328">
+Giao diện trang quản lý 
+  + Thông tin quản lý: ![z4952701101199_1c6da1606be2fda1df9f060d0a5d9a10](https://github.com/ChiAnh2409/QLPG_Demo_seventh/assets/118975118/f0dbc1b4-a0a4-494e-940b-e1aaba86ac27)
+
  + Trang quản lý của lễ tân: ![z4952699952752_03bd6c7f62ba8a8c0656a32972d593e0](https://github.com/ChiAnh2409/QLPG_Demo_seventh/assets/118975118/926babcd-4cbf-4930-ab19-99fdfc2fa78e)
  + Trang quản lý của CSKH:![z4952697648056_59bbfe367ba01f4523e72ddf270aa144](https://github.com/ChiAnh2409/QLPG_Demo_seventh/assets/118975118/8a669dc2-2b4b-4107-b4e6-64fa260849a1)
  + Thông tin quan trọng:
